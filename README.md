@@ -1,2 +1,2 @@
 # migration-protocol
-TDF Migration Protocol 2.0
+Expanded TDF Migration Protocol (Release 2.0) 
