@@ -36,25 +36,7 @@ In fact, the production of the first few documents will create a lasting percept
 
 The biggest problem, then, is the resistance to change, which is a side effect of the introduction of a new technology in any large organization. This it often seen as a burden in addition to everyday work, and has to be tackled with a carefully crafted communication strategy. Users have to be persuaded that the new tools, after some training, can provide a better and more rewarding user experience.
 
-Typical reasons for resistance to change are:
-
-    • The fear of the unknown, which triggers the fear of not being good enough to deal with the new technology;
-
-    • The perception that the change is being imposed by the top management, which is not using the new tool to the same extent as middle managers and employees;
-
-    • A poor communication strategy: when it comes to a change management process there's no such thing as too much communication;
-
-    • A change of routine, which translates into a change - or perceived reduction - of the user's comfort zone;
-
-    • A low trust in the organization's, management's or personal capability to competently manage the change;
-
-    • A misunderstanding about the need for a change, especially from those who strongly believe that the current way of doing things works well... and has done so for twenty years!
-
-    • A change in the status quo, which triggers the perception that at the end of the process one's situation will be worse than before \(because the change favours another group, such as younger people in the case of old loyal employees\).
-
-Of course, the "brute force" method - which consists in installing LibreOffice and eradicating MS Office without any previous warning - is the worst of all choices, as it creates a rejection effect which kills any hope of success.
-
-# Migration, Step by Step
+Migration, Step by Step
 
 ### Communicating the change
 
@@ -70,9 +52,11 @@ The participants to the impact test should be representative of the entire organ
 
 The impact test has a couple of key objectives:
 
-    • Identifying critical documents, templates and macros: a good deal of existing documents, templates and macros might not be in use, or will have outlived their usefulness after your move to LibreOffice. Documents and templates that are still in use should be converted to the standard ODF format, while macros should be re-created using the appropriate technology.
+```
+• Identifying critical documents, templates and macros: a good deal of existing documents, templates and macros might not be in use, or will have outlived their usefulness after your move to LibreOffice. Documents and templates that are still in use should be converted to the standard ODF format, while macros should be re-created using the appropriate technology.
 
-    • Creating an inventory of tools and MS Office dependent applications, which are quite frequent in CRM and ERP environments. These applications need to be identified and checked for compatibility with LibreOffice, as the new features might offer an alternative solution \(such as CMIS connectivity\). Questionnaires given to team leads or group managers can be used to get a better insight into how the business solutions interact with MS Office.
+• Creating an inventory of tools and MS Office dependent applications, which are quite frequent in CRM and ERP environments. These applications need to be identified and checked for compatibility with LibreOffice, as the new features might offer an alternative solution \(such as CMIS connectivity\). Questionnaires given to team leads or group managers can be used to get a better insight into how the business solutions interact with MS Office.
+```
 
 To minimize support calls and maximize productivity from the start, it is highly advisable to prepare a "welcome" package for users, with supplementary information about LibreOffice, highlighting the basic functionality of the software and the few specific functional differences with MS Office.
 
