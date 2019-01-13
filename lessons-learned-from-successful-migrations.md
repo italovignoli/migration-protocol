@@ -1,4 +1,4 @@
-### Lessons learned from successful migrations
+### Lessons Learned from Successful Migrations
 
 LibreOffice's feature set is more than adequate for the everyday needs of the majority - i.e. more than 90% - of users inside organizations of any size. In general, the few technical obstacles are related to spreadsheets using advanced features or to MS Office macros, which are often difficult to migrate for a number of reasons.
 

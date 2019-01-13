@@ -1,0 +1,10 @@
+### Deploying LibreOffice
+
+The deployment of LibreOffice on every personal computer, including those of users who have been authorized - for specific technical reasons - to keep on using MS Office, needs to be planned in advance and should be coordinated with the training schedule, in order to ensure that users will be able to use the software as soon as possible \(ideally, after the first training session\).
+
+The community version of LibreOffice is not optimized for deployments in large organizations, as it is a rather large binary blob which has not been designed to be installed over a network \(although the task can be executed, it is slow and tedious\).
+
+In contrast, LTS versions of LibreOffice are the enterprise-ready build of the free office suite, as companies add deployment and administration utilities on top of the community version, together with contracted support services to allow LibreOffice to be used in business critical environments. These versions have a release cycle similar to the community version, but are supported for three years - with security, maintenance and bug fixes - from the date of release. Also, they provide MSP patch files to allow incremental updates for Windows installations, and to makes it easier to deploy and maintain LibreOffice in large enterprise networks by reducing the required effort from weeks to days and from days to hours, according to the number of desktops.
+
+Deploying LibreOffice, though, does not mean eradicating MS Office from each and every PC. The goal is to maximize the number of PCs using LibreOffice, and to foster the interoperability with MS Office by identifying areas where the latter - for obvious reasons - tries to perpetuate lock-in. For instance, it will be necessary to educate MS Office users - who, at the end of the migration, should not exceed 20% of all users \(as this is the highest potential percentage of people using MS Office-specific features in corporate environments\) - to replace proprietary fonts with free fonts \(such as those backed by the SIL Open Font License\).
+

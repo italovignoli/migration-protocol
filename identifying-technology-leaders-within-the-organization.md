@@ -1,4 +1,4 @@
-### Identifying "technology leaders" within the organization
+### Identifying "Technology Leaders" within the Organization
 
 Once the impact test and the migration to ODF are in place, it is the right time to identify "technology leaders" within the organization: they are the individuals who are recognized by their peers for their tech competence. For instance, they are the ones who are asked about the latest and greatest smartphone or PC to buy, and about the sexiest applications to use.
 
