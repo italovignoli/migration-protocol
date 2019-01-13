@@ -1,10 +1,12 @@
-# **Migrating to LibreOffice**
+### **Migrating to LibreOffice**
 
 The office suite is an integral component of any workflow, either personal or organizational, and as such is essential for the productivity of most personal computer users. LibreOffice is a viable replacement for Microsoft Office, and can significantly reduce the Total Cost of Ownership of enterprise PCs because it replaces the license cost with a substantially lower migration cost.
 
-Migrating to LibreOffice can become a complex endeavor for organizations because of the underlying problems represented by the resistance to change - inherent in group dynamics - and by the integration of the office suite in the IT infrastructure \(encompassing third party proprietary software, and the conversion of document templates and macros\).
+The migration to LibreOffice is a complex endeavour from several points of view. There are psychological obstacles to overcome such as the resistance to change of end users – inherent in group dynamics – and technical problems to solve at different stages of the process: the interoperability with proprietary document formats, the conversion of document templates and macros, the compatibility of VBA macros, the integration with third party applications, and the fixing of bugs and regressions. In addition, the deployment of LibreOffice at enterprise level should be based on a long term supported version provided by one of the companies sitting in TDF Advisory Board, with the availability of incremental updates to be installed over the network.
 
 On the other hand, the migration to LibreOffice represents an excellent opportunity to rethink the organization's processes. For example, before migrating any existing Visual Basic macros, it is better to determine if the macros are still needed, in order to discard those that are no longer used, and re-engineer the remaining ones. The same applies to document templates, and to proprietary plugins which connect the office suite to proprietary enterprise applications.
 
 On that note, LibreOffice 4.0 significantly reduced the necessity of these plugins thanks to CMIS \(Content Management Interoperability Services\) support, an open standard that allows several content management systems such as MS SharePoint, IBM FileNet, Alfresco and Nuxeo to interoperate over the Internet with compatible client applications, which can browse, read and modify contents.
+
+Looking at the entire migration process, while the resistance to change can be tackled by a sustained communications campaign, under the responsibility of the project manager with the help of a communication expert, technical problems should be approached with the support of development, migrations or training professionals certified by The Document Foundation.
 

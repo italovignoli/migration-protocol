@@ -1,4 +1,4 @@
-# Lessons learned from successful migrations
+### Lessons learned from successful migrations
 
 LibreOffice's feature set is more than adequate for the everyday needs of the majority - i.e. more than 90% - of users inside organizations of any size. In general, the few technical obstacles are related to spreadsheets using advanced features or to MS Office macros, which are often difficult to migrate for a number of reasons.
 
@@ -19,6 +19,4 @@ Typical reasons for resistance to change are:
 * A change in the status quo, which triggers the perception that at the end of the process one's situation will be worse than before \(because the change favours another group, such as younger people in the case of old loyal employees\).
 
 Of course, the "brute force" method - which consists in installing LibreOffice and eradicating MS Office without any previous warning - is the worst of all choices, as it creates a rejection effect which kills any hope of success.
-
-
 
