@@ -1,4 +1,4 @@
-#### Analysing the Situation
+### Analysing the Situation
 
 The aim of a migration project to LibreOffice is to replace Microsoft Office with the free office suite whenever it makes sense. It is therefore very important to assess the potential impact of the migration on every user, by analysing the characteristics of the documents with their templates, the VBA macros and the other automation tools, and the integration with third party applications.
 

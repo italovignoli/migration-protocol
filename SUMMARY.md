@@ -8,4 +8,6 @@
 * [Communicating the Change](communicating-the-change.md)
 * [Analysing the Situation](analysing-the-situation.md)
 * [Starting the Migration Process with the Impact Test](starting-the-migration-process-with-the-impact-test.md)
+* [Switching to Open Document Format](switching-to-open-document-format.md)
+* [Identifying "technology leaders" within the organization](identifying-technology-leaders-within-the-organization.md)
 

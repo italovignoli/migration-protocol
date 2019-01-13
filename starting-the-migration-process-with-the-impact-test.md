@@ -1,4 +1,4 @@
-#### Starting the Migration Process with the Impact Test
+### Starting the Migration Process with the Impact Test
 
 Once the analysis of the existing situation has been completed, it is possible to start the process by implementing an impact test, which is supposed to help find all of the problems that could affect the migration, and ensure that the document workflow works as intended. Although LibreOffice is, to a large extent, fully compatible with MS Office, it is a different application with specific strengths and drawbacks, and might trigger specific workflow issues. The impact test will also allow to estimate the costs of the migration process.
 
