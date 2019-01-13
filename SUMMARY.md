@@ -9,7 +9,7 @@
 * [Analysing the Situation](analysing-the-situation.md)
 * [Starting the Migration Process with the Impact Test](starting-the-migration-process-with-the-impact-test.md)
 * [Switching to Open Document Format](switching-to-open-document-format.md)
-* [Identifying "technology leaders" within the organization](identifying-technology-leaders-within-the-organization.md)
+* [Identifying "Technology Leaders" within the Organization](identifying-technology-leaders-within-the-organization.md)
 * [Training Users](training-users.md)
 * [Deploying LibreOffice](deploying-libreoffice.md)
 * [User Support](user-support.md)
